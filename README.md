@@ -79,4 +79,4 @@ Tableau Public
 ## About me
 
 **Shubham Meena**: operations professional (petroleum industry) moving into data analytics.  
-LinkedIn: _add your URL_ · Email: _add your email_
+LinkedIn: www.linkedin.com/in/shubham16meena · Email: shubhamm0800@gmail.com
